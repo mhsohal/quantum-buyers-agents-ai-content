@@ -1,1 +1,1 @@
-"# quantum-buyers-agents-ai-content" 
+"# Quantum Buyers Agents AI Content"
